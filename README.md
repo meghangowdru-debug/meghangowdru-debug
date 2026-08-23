@@ -56,3 +56,10 @@
     alt="GitHub Contribution Graph"
   />
 </p>
+## Tech Stack
+
+<p align="center">
+
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,kotlin,html,css,react,nextjs,django,express,mysql,androidstudio,git,github,docker,aws" />
+
+</p>
