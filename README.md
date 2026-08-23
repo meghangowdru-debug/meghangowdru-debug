@@ -1,12 +1,12 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="dark.svg">
+    srcset="dark.svg?v=2">
   <source
     media="(prefers-color-scheme: light)"
-    srcset="light.svg">
+    srcset="light.svg?v=2">
   <img
-    src="light.svg"
+    src="light.svg?v=2"
     alt="Meghan Gowda B Y - GitHub Profile Banner"
     width="100%">
 </picture>
