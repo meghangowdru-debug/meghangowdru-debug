@@ -66,3 +66,30 @@
   <img src="https://skillicons.dev/icons?i=python,java,cpp,js,kotlin,html,css,react,nextjs,django,express,mysql,androidstudio,git,github,docker,aws" />
 
 </p>
+
+## Projects
+
+### 🛒 Amazon Product Scout — Scraper & Q&A Bot
+Built a product-data scraper and Q&A bot that extracts product information and answers user queries using Python, Selenium, BeautifulSoup4, and Gemini API.
+
+**Tech:** Python · Selenium · BeautifulSoup4 · Gemini API
+
+### 🤟 SignSpeak — ASL Interpreter
+Developed a deep-learning ASL interpreter using CNN, OpenCV, and TensorFlow to translate gestures into text and speech, with multilingual speech synthesis.
+
+**Tech:** Python · OpenCV · TensorFlow · CNN
+
+### 🚨 Embedded Based Auto-SOS Network Using IoT
+Developed an IoT-based accident detection and emergency alert system using multi-sensor fusion, GPS, GSM, Raspberry Pi camera, ESP32, and cloud monitoring.
+
+**Tech:** Raspberry Pi · ESP32 · Arduino · Python · IoT · GPS · GSM · Firebase · OpenCV
+
+### 🚌 Vidyarthi-Bus
+An Android application that provides real-time college bus crowd information, helping students know whether seats are available before waiting for the bus.
+
+**Tech:** Kotlin · Jetpack Compose · Firebase Realtime Database · Android Studio
+
+### 🤝 MentiVox
+An AI-powered student skill-exchange platform that helps students discover, share, and exchange skills beyond the classroom.
+
+**Tech:** Flutter · Firebase · AI
