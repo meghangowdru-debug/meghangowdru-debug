@@ -1,14 +1,12 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/meghangowdru-debug/meghangowdru-debug/main/dark.svg?v=3">
-
+    srcset="dark.svg?v=2">
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/meghangowdru-debug/meghangowdru-debug/main/light.svg?v=3">
-
+    srcset="light.svg?v=2">
   <img
-    src="https://raw.githubusercontent.com/meghangowdru-debug/meghangowdru-debug/main/light.svg?v=3"
+    src="light.svg?v=2"
     alt="Meghan Gowda B Y - GitHub Profile Banner"
     width="100%">
 </picture>
