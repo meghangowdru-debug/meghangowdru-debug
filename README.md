@@ -93,3 +93,20 @@ An Android application that provides real-time college bus crowd information, he
 An AI-powered student skill-exchange platform that helps students discover, share, and exchange skills beyond the classroom.
 
 **Tech:** Flutter · Firebase · AI
+
+## Experience
+
+### 📱 Android App Development Using Generative AI Intern — MindMatrix
+**Feb 2026 – May 2026**
+
+- Developed Android applications using Kotlin, Jetpack Compose, and Android Studio.
+- Worked on Generative AI integration and API functionalities.
+- Contributed to UI enhancements and debugging for the Antigravity application.
+
+### 📊 Data Analytics Intern — Techmiya
+**Jul 2026 – Present**
+
+- Analyzed and cleaned datasets using Excel, SQL, and Python to generate business insights.
+- Built interactive Power BI dashboards and visualizations to monitor KPIs.
+- Performed data preprocessing, validation, and exploratory data analysis (EDA).
+
