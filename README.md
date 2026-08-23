@@ -30,3 +30,11 @@
     alt="GitHub Stats"
   />
 </p>
+<p align="center">
+  <a href="https://github.com/meghangowdru-debug">
+    <img
+      src="https://github-readme-stats-eight-green-97.vercel.app/api/top-langs/?username=meghangowdru-debug&layout=compact&hide_border=true"
+      alt="Top Languages"
+    />
+  </a>
+</p>
