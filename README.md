@@ -21,3 +21,12 @@
 [![Email](https://img.shields.io/badge/Email-meghangowdru%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:meghangowdru@gmail.com)
 
 </p>
+
+## GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats-eight-green-97.vercel.app/api?username=meghangowdru-debug&show_icons=true&hide_rank=true"
+    alt="GitHub Stats"
+  />
+</p>
