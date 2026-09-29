@@ -69,6 +69,18 @@
 
 ## Projects
 
+## Projects
+
+### 🛒 CommerceIQ — AI-Powered E-Commerce Intelligence Platform
+Built an end-to-end e-commerce analytics solution using the Brazilian Olist dataset to analyze 96K+ orders and 99K+ customers. Developed advanced MySQL analytics using CTEs, window functions, RFM analysis, analytical views, and query optimization. Built a Power BI executive dashboard and integrated Gemini 2.5 Flash-Lite with Python to generate automated executive reports and data-driven business insights.
+
+**Tech:** MySQL · SQL · Python · Power BI · Gemini AI · RFM Analysis · CTEs · Window Functions
+
+### 🚗 Fuel Economy Data Analysis
+Analyzed 4,015 U.S. EPA vehicle records from 2008 and 2018 to evaluate fuel-economy trends and vehicle characteristics. Cleaned and transformed data by handling missing values, duplicates, inconsistent data types, and hybrid-vehicle records. Identified fuel-economy improvements of up to 6.28 MPG across vehicle classes and a 16.53 MPG improvement for the VOLVO XC 90.
+
+**Tech:** Python · Pandas · NumPy · Matplotlib · EDA · Data Cleaning · Data Visualization
+
 ### 🛒 Amazon Product Scout — Scraper & Q&A Bot
 Built a product-data scraper and Q&A bot that extracts product information and answers user queries using Python, Selenium, BeautifulSoup4, and Gemini API.
 
