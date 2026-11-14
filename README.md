@@ -16,7 +16,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Meghan_Gowda_B_Y-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meghan-22ec095/)
 
-[![GitHub](https://img.shields.io/badge/GitHub-meghangowdru--debug-181717?logo=github&logoColor=white)](https://github.com/meghangowdru-debug)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-blue?logo=vercel&logoColor=white)](https://meghan-data-analyst-portfolio.vercel.app/)
 
 [![Email](https://img.shields.io/badge/Email-meghangowdru%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:meghangowdru@gmail.com)
 
